@@ -30,3 +30,7 @@
 - Working with APIs and JSON data
 - Using SQL for analysis
 - Building interactive maps with Folium
+
+🌐 Interactive Map (Live Demo)
+- View the interactive Folium map here:
+- https://haizahb.github.io/hawker-centre-closure-etl/visuals/interactive_closure_map.html
