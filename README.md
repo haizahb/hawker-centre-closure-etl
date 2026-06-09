@@ -1,2 +1,1 @@
-# hawker-centre-closure-etl
-Automated ETL pipeline and analysis of Singapore hawker centres' closure data
+A data engineering project that builds an automated ETL pipeline to extract, clean and transform Singapore hawker centre closure data using Python, SQL, and API integration. The workflow normalizes quarterly closure schedules into scalable event‑level records, applies validation and modular transformation logic and enables reproducible analysis. The project surfaces regional and seasonal closure patterns and includes an interactive Matplotlib map that visualizes closure distribution across Singapore to support operational planning and decision‑making.
